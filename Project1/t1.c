@@ -3,11 +3,11 @@
 #include <string.h>    // strcmp 함수가 선언된 헤더 파일
 
 
-
+//fsdfsfasdfasf
 
 int main() {
 
-    
+    //  ㅁㅇㅇㅇㅇㄹㄴㅇㄹㅇㄹㅇ/
    /* char str[4] = "abc";
     
 
